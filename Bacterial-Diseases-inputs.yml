@@ -1,0 +1,195 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/bacterial-diseases-excl-tb-pneumoniae---secondary.py
+inputModule3:
+  class: File
+  path: python/bacterial-diseases-excl-tb---secondary.py
+inputModule4:
+  class: File
+  path: python/infectious-bacterial-diseases-excl-tb---secondary.py
+inputModule5:
+  class: File
+  path: python/bacterial-diseases-excl-tb-rickettsioses---secondary.py
+inputModule6:
+  class: File
+  path: python/bacterial-diseases-excl-tb-streptococcu---secondary.py
+inputModule7:
+  class: File
+  path: python/bacterial-diseases-excl-tb-erysipelas---secondary.py
+inputModule8:
+  class: File
+  path: python/bacterial-diseases-excl-tb-valve---secondary.py
+inputModule9:
+  class: File
+  path: python/bacterial-diseases-excl-tb-brucellosis---secondary.py
+inputModule10:
+  class: File
+  path: python/bacterial-diseases-excl-tb-agent---secondary.py
+inputModule11:
+  class: File
+  path: python/bacterial-diseases-excl-tb-sequelae---secondary.py
+inputModule12:
+  class: File
+  path: python/meningococcal-bacterial-diseases-excl-tb---secondary.py
+inputModule13:
+  class: File
+  path: python/bacterial-diseases-excl-tb-involvement---secondary.py
+inputModule14:
+  class: File
+  path: python/other-bacterial-diseases-excl-tb---secondary.py
+inputModule15:
+  class: File
+  path: python/bacterial-diseases-excl-tb-classified---secondary.py
+inputModule16:
+  class: File
+  path: python/bacterial-diseases-excl-tb-abscess---secondary.py
+inputModule17:
+  class: File
+  path: python/bacterial-diseases-excl-tb-carbuncle---secondary.py
+inputModule18:
+  class: File
+  path: python/bacterial-diseases-excl-tb-chlamydia---secondary.py
+inputModule19:
+  class: File
+  path: python/chancroid-bacterial-diseases-excl-tb---secondary.py
+inputModule20:
+  class: File
+  path: python/bacterial-diseases-excl-tb-yaws---secondary.py
+inputModule21:
+  class: File
+  path: python/bacterial-diseases-excl-tb-cervix---secondary.py
+inputModule22:
+  class: File
+  path: python/bacterial-diseases-excl-tb-unspecified---secondary.py
+inputModule23:
+  class: File
+  path: python/bacterial-diseases-excl-tb-prostatocystitis---secondary.py
+inputModule24:
+  class: File
+  path: python/bacterial-diseases-excl-tb-erythrasma---secondary.py
+inputModule25:
+  class: File
+  path: python/bacterial-diseases-excl-tb-peritonitis---secondary.py
+inputModule26:
+  class: File
+  path: python/rheumatic-bacterial-diseases-excl-tb---secondary.py
+inputModule27:
+  class: File
+  path: python/bacterial-diseases-excl-tb-meningitis---secondary.py
+inputModule28:
+  class: File
+  path: python/bacterial-diseases-excl-tb-bronchitis---secondary.py
+inputModule29:
+  class: File
+  path: python/staphylococcal-bacterial-diseases-excl-tb---secondary.py
+inputModule30:
+  class: File
+  path: python/bacterial-diseases-excl-tb-diphtheria---secondary.py
+inputModule31:
+  class: File
+  path: python/bacterial-diseases-excl-tb-cholera---secondary.py
+inputModule32:
+  class: File
+  path: python/bacterial-diseases-excl-tb-polyarthritis---secondary.py
+inputModule33:
+  class: File
+  path: python/bacterial-diseases-excl-tb-listeriosis---secondary.py
+inputModule34:
+  class: File
+  path: python/bacterial-diseases-excl-tb-sepsis---secondary.py
+inputModule35:
+  class: File
+  path: python/erysipeloid-bacterial-diseases-excl-tb---secondary.py
+inputModule36:
+  class: File
+  path: python/bacterial-diseases-excl-tb-plague---secondary.py
+inputModule37:
+  class: File
+  path: python/bacterial-diseases-excl-tb-actinomycosis---secondary.py
+inputModule38:
+  class: File
+  path: python/infective-bacterial-diseases-excl-tb---secondary.py
+inputModule39:
+  class: File
+  path: python/bacterial-diseases-excl-tb-pyothorax---secondary.py
+inputModule40:
+  class: File
+  path: python/bacterial-diseases-excl-tb-spondylitis---secondary.py
+inputModule41:
+  class: File
+  path: python/bacterial-diseases-excl-tb-otitis---secondary.py
+inputModule42:
+  class: File
+  path: python/bacterial-diseases-excl-tb-trachoma---secondary.py
+inputModule43:
+  class: File
+  path: python/bacterial-diseases-excl-tb-syphilis---secondary.py
+inputModule44:
+  class: File
+  path: python/congenital-bacterial-diseases-excl-tb---secondary.py
+inputModule45:
+  class: File
+  path: python/bacterial-diseases-excl-tb-chapter---secondary.py
+inputModule46:
+  class: File
+  path: python/bacterial-diseases-excl-tb-nocardiosis---secondary.py
+inputModule47:
+  class: File
+  path: python/bacterial-diseases-excl-tb-fever---secondary.py
+inputModule48:
+  class: File
+  path: python/bacterial-diseases-excl-tb-influenzae---secondary.py
+inputModule49:
+  class: File
+  path: python/bacterial-diseases-excl-tb-bursitis---secondary.py
+inputModule50:
+  class: File
+  path: python/gonococcal-bacterial-diseases-excl-tb---secondary.py
+inputModule51:
+  class: File
+  path: python/bacterial-diseases-excl-tb-bartonellosis---secondary.py
+inputModule52:
+  class: File
+  path: python/bacterial-diseases-excl-tb-leptospirosis---secondary.py
+inputModule53:
+  class: File
+  path: python/bacterial-diseases-excl-tb-heart---secondary.py
+inputModule54:
+  class: File
+  path: python/pelvic-bacterial-diseases-excl-tb---secondary.py
+inputModule55:
+  class: File
+  path: python/bacterial-diseases-excl-tb-osteomyelitis---secondary.py
+inputModule56:
+  class: File
+  path: python/bacterial-diseases-excl-tb-shigellosis---secondary.py
+inputModule57:
+  class: File
+  path: python/bacterial-diseases-excl-tb-impetigo---secondary.py
+inputModule58:
+  class: File
+  path: python/bacterial-diseases-excl-tb-anthrax---secondary.py
+inputModule59:
+  class: File
+  path: python/bacterial-diseases-excl-tb-pyonephrosis---secondary.py
+inputModule60:
+  class: File
+  path: python/bacterial-diseases-excl-tb-tularaemia---secondary.py
+inputModule61:
+  class: File
+  path: python/bacterial-diseases-excl-tb-synovitis---secondary.py
+inputModule62:
+  class: File
+  path: python/acute-bacterial-diseases-excl-tb---secondary.py
+inputModule63:
+  class: File
+  path: python/bacterial-diseases-excl-tb-cellulitis---secondary.py
+inputModule64:
+  class: File
+  path: python/bacterial-diseases-excl-tb-leprosy---secondary.py
+inputModule65:
+  class: File
+  path: python/output-cases.py
